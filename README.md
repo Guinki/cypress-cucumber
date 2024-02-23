@@ -1,6 +1,6 @@
 # Automação de Testes - Cypress
 
-Autores:  
+Autor:  
 Guilherme Henrique de Andrade Araújo  
 
 Email:   
